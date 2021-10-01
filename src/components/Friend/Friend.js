@@ -14,7 +14,7 @@ const Friend = (props) => {
             <h1>I am {name}</h1>
             <h4>Connect me {phone}</h4>
             <h5>Visit me {website}</h5>
-            <p><small>I live in {address.city}</small></p>
+            <p><small>I live in {address.city} city</small></p>
         </div>
     );
 };
